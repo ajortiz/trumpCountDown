@@ -1,4 +1,4 @@
-TRUMP COUNTDOWN TIMER
+#TRUMP COUNTDOWN TIMER
 ~~~~~~~
 a simple countdown to the end of trump's time; see it live here:
 
